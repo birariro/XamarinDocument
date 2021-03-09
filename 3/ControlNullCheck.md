@@ -1,3 +1,4 @@
+# ControlNullCheck
 사용자가 입력한 Label 의 Text를 가져오는등
 Control의 접근하여 값을 가져올때 항상 null인지 조심하고 가져와야한다.
 
