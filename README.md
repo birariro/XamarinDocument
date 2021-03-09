@@ -4,7 +4,8 @@
 무엇보다 내가 필요한 정리이다.
 
 # :book: 1. 문자열 관리 
-[1.1 static readonly](https://github.com/k4keye/XamarinDocument/blob/main/1/ReadonlyString.md)
+~[1.1 static readonly](https://github.com/k4keye/XamarinDocument/blob/main/1/ReadonlyString.md)~</br>
+[1.2 리소스파일](https://github.com/k4keye/XamarinDocument/blob/main/1/Resources.md)
 
 # :couple: 2. ViewModel 
 [2.1 ICommand](https://github.com/k4keye/XamarinDocument/blob/main/2/ICommand.md)
