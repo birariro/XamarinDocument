@@ -7,4 +7,4 @@
 [1.1 static readonly](https://github.com/k4keye/XamarinDocument/blob/main/1/ReadonlyString.md)
 
 # 2. ViewModel
-[2.1 ICommand]()
+[2.1 ICommand](https://github.com/k4keye/XamarinDocument/blob/main/2/ICommand.md)
