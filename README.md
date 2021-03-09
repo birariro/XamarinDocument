@@ -12,3 +12,7 @@
 
 #  :anger: 3. Null 체크
 [3.1 ControlNullCheck](https://github.com/k4keye/XamarinDocument/blob/main/3/ControlNullCheck.md)
+
+
+# :guitar: ETC
+[EUC-KR 인코딩 문제](https://github.com/k4keye/XamarinDocument/blob/main/etc/euc-kr.md)
