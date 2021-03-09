@@ -4,7 +4,7 @@
 무엇보다 내가 필요한 정리이다.
 
 # 1. 문자열 관리
-[1.1 문자열 한곳에 모아두기]()
+[1.1 static readonly](https://github.com/k4keye/XamarinDocument/blob/main/1/ReadonlyString.md)
 
 # 2. ViewModel
 [2.1 ICommand]()
