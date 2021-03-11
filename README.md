@@ -23,4 +23,5 @@
 [주석](https://github.com/k4keye/XamarinDocument/blob/main/codeConventions/%EC%A3%BC%EC%84%9D.md) </br>
 
 # :guitar: ETC
-[EUC-KR 인코딩 문제](https://github.com/k4keye/XamarinDocument/blob/main/etc/euc-kr.md)
+[EUC-KR 인코딩 문제](https://github.com/k4keye/XamarinDocument/blob/main/etc/euc-kr.md) <br/>
+[StackTrace](https://github.com/k4keye/XamarinDocument/blob/main/etc/StackTrace.md)
