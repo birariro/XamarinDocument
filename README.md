@@ -1,9 +1,9 @@
 #  :pencil: XamarinDocument
 자마린 개발을하면서 자마린 혹은 C# 관련으로 필요했던 내용을 정리하는 글이다.
 
-# :book: 1. 문자열 관리 
-~[1.1 static readonly](https://github.com/k4keye/XamarinDocument/blob/main/1/ReadonlyString.md)~</br>
-[1.2 리소스파일](https://github.com/k4keye/XamarinDocument/blob/main/1/Resources.md)
+# :book: 1. 데이터 관리 
+~[1.1 static readonly로 문자열 관리](https://github.com/k4keye/XamarinDocument/blob/main/1/ReadonlyString.md)~</br>
+[1.2 리소스파일로 문자열 관리](https://github.com/k4keye/XamarinDocument/blob/main/1/Resources.md)
 
 # :couple: 2. MVVM
 [2.1 ViewModel](https://github.com/k4keye/XamarinDocument/blob/main/2/VIewModel.md) </br>
