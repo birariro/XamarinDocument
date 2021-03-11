@@ -7,8 +7,9 @@
 ~[1.1 static readonly](https://github.com/k4keye/XamarinDocument/blob/main/1/ReadonlyString.md)~</br>
 [1.2 리소스파일](https://github.com/k4keye/XamarinDocument/blob/main/1/Resources.md)
 
-# :couple: 2. ViewModel 
-[2.1 ICommand](https://github.com/k4keye/XamarinDocument/blob/main/2/ICommand.md)
+# :couple: 2. MVVM
+[2.1 ViewModel](https://github.com/k4keye/XamarinDocument/blob/main/2/VIewModel.md) </br>
+[2.2 ICommand](https://github.com/k4keye/XamarinDocument/blob/main/2/ICommand.md)
 
 
 #  :anger: 3. Null 체크
