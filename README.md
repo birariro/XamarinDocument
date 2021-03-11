@@ -1,5 +1,6 @@
 #  :pencil: XamarinDocument
-자마린 개발을하면서 자마린 혹은 C# 관련으로 필요했던 내용을 정리하는 글이다.
+자마린 개발을하면서 내용을 정리하는 글이다.
+
 
 # :book: 1. 데이터 관리 
 ~[1.1 static readonly로 문자열 관리](https://github.com/k4keye/XamarinDocument/blob/main/1/ReadonlyString.md)~</br>
@@ -25,3 +26,9 @@
 # :guitar: ETC
 [EUC-KR 인코딩 문제](https://github.com/k4keye/XamarinDocument/blob/main/etc/euc-kr.md) <br/>
 [StackTrace](https://github.com/k4keye/XamarinDocument/blob/main/etc/StackTrace.md)
+
+___
+
+### :family: Writer
+[k4keye](https://github.com/k4keye) <br/>
+[JJinggg](https://github.com/JJinggg)
