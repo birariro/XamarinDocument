@@ -35,3 +35,35 @@ private async Task Logout_Tapped(){//로그아웃}
 private async Task UserDelete_Tapped(){//계정 제거}
 ```
 ViewModel에서는 View에서 처리하려하는 이벤트 Binding 이름 을 ICommand로 만들어서 처리한다.
+
+
+
+Command의 Event처리
+
+```
+        public ICommand IListViewTapCommand { get; }
+
+
+        public ViewModel()
+        {
+            IListViewTapCommand = new Command<object>((e) => ListViewTep(e));
+        } 
+```
+
+ICommand에서 선언한다.
+생성자에서 Command의 CommandParameter를 받아온다.
+
+```
+private void ListViewTep(object _commandParameter)
+        {
+            var sender = _commandParameter as Xamarin.Forms.ListView;
+            var args = _commandParameter as Xamarin.Forms.ItemTappedEventArgs;
+            var tapOb = Args.Item;
+            var tapIndex = Args.ItemIndex;
+        } 
+```
+
+CommandParameter에는 Sender와 Args가 같이 담겨있기 때문에 분리를 해준후
+Args만 따로 활용하면 된다.
+
+
