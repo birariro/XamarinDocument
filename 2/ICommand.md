@@ -36,7 +36,36 @@ private async Task UserDelete_Tapped(){//계정 제거}
 ```
 ViewModel에서는 View에서 처리하려하는 이벤트 Binding 이름 을 ICommand로 만들어서 처리한다.
 
+## CommandParameter
+Command 를 통해 이벤트를 처리하려해도 View의 특정한 데이터를 필요로하는경우가 생긴다.
+이때 Command에 파라미터를 넘길수있다.
+```
+<Entry x:Name="userCnt" VerticalOptions="Center"/>
+<Button Command="{Binding BtnCommand}"
+		CommandParameter="{Binding Source={x:Reference userCnt},Path=Text}"
+		Text="{Binding DIsplayCount}"
+		/>
+```
+위의 코드를 보면 CommandParameter 에 자신위의 control인 Entry의 Text를 파리미터를 넘기는것을 볼수있다.
 
+```
+public ICommand BtnCommand { get; }
+int count = 0;
+public MainVM()
+{
+	BtnCommand = new Command<string>((cnt) =>BtnCount(cnt));
+}
+
+private void BtnCount(string i)
+{
+	if(int.TryParse(i,out int cnt))
+	{
+		count += cnt;
+	}
+
+}
+```
+ICommand 에서 해당 파라미터를 전달받아 처리하는 모습이다.<br/>
 
 ## Command의 Event처리
 
