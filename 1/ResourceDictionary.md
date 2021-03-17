@@ -189,8 +189,16 @@ SubLabelStyle 을 보면 ColorDictionary 의 SubColor 를 가져와서 사용하
 MyResourceDictionary 를 Resources 의 Source 로 지정하면된다.
 
 
+### Class 에서 Resources 변경 및 얻기
 
+#### 리소스 값 얻기
+```
+Application.Current.Resources.TryGetValue("key", out var value);
+```
 
-
+##### 수정
+```
+Application.Current.Resources["key"]="0x00";
+```
 
 
