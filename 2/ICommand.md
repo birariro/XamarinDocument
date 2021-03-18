@@ -5,6 +5,8 @@ ICommand를 사용해야한다.
 
 
 ```
+xmlns:xe="clr-namespace:XamEffects;assembly=XamEffects"
+
 <Grid  xe:Commands.Tap="{Binding LogoutTap}">
 <Grid  xe:Commands.Tap="{Binding UserDeleteTap}">
 ```
