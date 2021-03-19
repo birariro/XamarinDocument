@@ -1,7 +1,7 @@
 # CodeSnippet
 
-코드 조각을 사용하여 구문을 좀더 쉽게 사용할수있다.
-프로젝트에 구속되는것이아닌 vs자체에 구속되는것이기 때문에 활용도도 놉다.
+코드 조각을 사용하여 구문을 좀더 쉽게 사용할수있다.<br/>
+프로젝트에 구속되는것이아닌 vs자체에 구속되는것이기 때문에 활용도도 놉다.<br/>
 
 # Custom Code Snippet
 ```
@@ -23,13 +23,13 @@
     </CodeSnippet>
 </CodeSnippets>
 ```
-기본적인 틀은 이렇다
+기본적인 틀은 이렇다<br/>
 
-Title: 코드조각편집기에서 나오는 이 snippet의 이름
-Author: 제작자이름
-Description: snippet의 설명
-Shortcut: intellicode에서 불러올이름
-Code Language 어느 언어에서 사용할지 설정
+Title: 코드조각편집기에서 나오는 이 snippet의 이름<br/>
+Author: 제작자이름<br/>
+Description: snippet의 설명<br/>
+Shortcut: intellicode에서 불러올이름<br/>
+Code Language 어느 언어에서 사용할지 설정<br/>
 
 
 # 매개 변수 설정
@@ -44,9 +44,9 @@ Code Language 어느 언어에서 사용할지 설정
     </Literal>
   </Declarations>
 ```
-ID: 변수이름
-ToolTip: 변수에대한설명
-Default: 기본값
+ID: 변수이름<br/>
+ToolTip: 변수에대한설명<br/>
+Default: 기본값<br/>
 
 # Snippet Function
 함수를 사용해야할 경우. 따로설정 하지않으면 Default값이 들어간다.
@@ -59,12 +59,12 @@ Default: 기본값
                     <Default></Default>
                 </Literal>
 ```
-Literal default: 기본값을허용할지 말지대한boolean
-Literal default: 편집을허용할지 말지대한boolean
-ID: 함수이름
-ToolTip: 함수에대한설명
-Default: 기본값
-Function
-GenerateSwitchCases(EnumerationLiteral) switch문과 case문의 집합생성 (Ex:GenerateSwitchCases($expression$))
-ClassName() 삽입된 코드 조각을 포함하는 클래스의 이름을 반환 (Ex:ClassName())
-SimpleTypeName(TypeName) 코드 조각이 호출되는 컨텍스트에서 가장 단순한 형태로 변환(Ex:SimpleTypeName(global::System.Exception))
+Literal default: 기본값을허용할지 말지대한boolean<br/>
+Literal Editable: 편집을허용할지 말지대한boolean<br/>
+ID: 함수이름<br/>
+ToolTip: 함수에대한설명<br/>
+Default: 기본값<br/>
+Function<br/>
+GenerateSwitchCases(EnumerationLiteral) switch문과 case문의 집합생성 (Ex:GenerateSwitchCases($expression$))<br/>
+ClassName() 삽입된 코드 조각을 포함하는 클래스의 이름을 반환 (Ex:ClassName())<br/>
+SimpleTypeName(TypeName) 코드 조각이 호출되는 컨텍스트에서 가장 단순한 형태로 변환(Ex:SimpleTypeName(global::System.Exception))<br/>
