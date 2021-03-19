@@ -1,4 +1,5 @@
-# AXAML 을 작성할때 사용되는 Control 의 속성값의 순서를 부여해서 가독성을 높이기 위한 목적
+# AXAML <br/>
+AXAML 을 작성할때 사용되는 Control 의 속성값의 순서를 부여해서 가독성을 높이기 위한 목적
 
 ## 자주사용하는 Control 은 StaticResource로 정의후 사용한다.
 
