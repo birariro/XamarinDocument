@@ -9,7 +9,8 @@
 # :couple: 2. MVVM
 [2.1 ViewModel](https://github.com/k4keye/XamarinDocument/blob/main/2/VIewModel.md) </br>
 [2.2 ICommand](https://github.com/k4keye/XamarinDocument/blob/main/2/ICommand.md) </br>
-
+[2.3 ViewBinding](https://github.com/k4keye/XamarinDocument/blob/main/2/VIewBinding.md) </br>
+[2.3 INotifyPropertyChanged](https://github.com/k4keye/XamarinDocument/blob/main/2/INotifyPropertyChanged.md) </br>
 
 #  :anger: 3. Null 체크
 [3.1 ControlNullCheck](https://github.com/k4keye/XamarinDocument/blob/main/3/ControlNullCheck.md)
