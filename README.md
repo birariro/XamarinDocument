@@ -9,7 +9,7 @@
 # :couple: 2. MVVM
 [2.1 ViewModel](https://github.com/k4keye/XamarinDocument/blob/main/2/VIewModel.md) </br>
 [2.2 ICommand](https://github.com/k4keye/XamarinDocument/blob/main/2/ICommand.md) </br>
-[2.3 RecycleVM](https://github.com/k4keye/XamarinDocument/blob/main/2/RecycleVM.md)
+
 
 #  :anger: 3. Null 체크
 [3.1 ControlNullCheck](https://github.com/k4keye/XamarinDocument/blob/main/3/ControlNullCheck.md)
@@ -23,7 +23,7 @@
 [함수](https://github.com/k4keye/XamarinDocument/blob/main/codeConventions/%ED%95%A8%EC%88%98.md) </br>
 [주석](https://github.com/k4keye/XamarinDocument/blob/main/codeConventions/%EC%A3%BC%EC%84%9D.md) </br>
 [AXML](https://github.com/k4keye/XamarinDocument/blob/main/codeConventions/XAML.md) </br>
-
+[RecycleViewModel](https://github.com/k4keye/XamarinDocument/blob/main/codeConventions/RecycleViewModel.md)</br>
 
 # :guitar: ETC
 [EUC-KR 인코딩 문제](https://github.com/k4keye/XamarinDocument/blob/main/etc/euc-kr.md) <br/>
