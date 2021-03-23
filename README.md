@@ -28,7 +28,10 @@
 # :guitar: ETC
 [EUC-KR 인코딩 문제](https://github.com/k4keye/XamarinDocument/blob/main/etc/euc-kr.md) <br/>
 [StackTrace](https://github.com/k4keye/XamarinDocument/blob/main/etc/StackTrace.md)<br/>
-[SyncFusionListviewHeader](https://github.com/k4keye/XamarinDocument/blob/main/etc/SyncFusionListViewHeader.md)
+[SyncFusionListviewHeader](https://github.com/k4keye/XamarinDocument/blob/main/etc/SyncFusionListViewHeader.md) <br/>
+[동기에서 비동기호출](https://github.com/k4keye/XamarinDocument/blob/main/etc/%EB%8F%99%EA%B8%B0%EC%97%90%EC%84%9C_%EB%B9%84%EB%8F%99%EA%B8%B0%ED%98%B8%EC%B6%9C.md) <br/>
+
+
 ___
 
 ### :fire: Writer
