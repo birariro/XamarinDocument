@@ -1,9 +1,57 @@
 # CodeSnippet
 
-코드 조각을 사용하여 구문을 좀더 쉽게 사용할수있다.<br/>
-프로젝트에 구속되는것이아닌 vs자체에 구속되는것이기 때문에 활용도도 놉다.<br/>
+코드 조각 은 코드를 신속하게 삽입할수있도록 준비된 코드 모음이라고할수있다. 코드조각 동작 키는 Tap 키 두번을 누르면된다..<br/>
+프로젝트에 구속되는것이아닌 VS자체에 구속되는것이기 때문에 활용도도 놉다.<br/>
 
-# Custom Code Snippet
+
+# 1. 내장 CodeSnippet
+기본적으로 VS에 내장되어있는 코드조각중 유용하게 사용하는 것들을 기록하려한다.<br/>
+
+## for,foreach
+```
+for (int i = 0; i < length; i++)
+{
+
+}
+foreach (var item in collection)
+{
+
+}
+```
+반복문의 형태를 자동으로 완성한다.<br/>
+
+## #if 
+
+```
+#if true
+
+#endif
+```
+#if 와 #endif를 완성한다.<br/>
+
+## propfull
+```
+private int myVar;
+
+public int MyProperty
+{
+	get { return myVar; }
+	set { myVar = value; }
+}
+```
+프로퍼티를 완성해준다.<br/>
+
+## cw
+```
+Console.WriteLine();
+```
+화면 출력 WriteLine을 완성해준다.
+
+
+
+
+# 2. Custom Code Snippet
+위에서본 내장 코드조각 말고도 커스텀 코드조각을 만들수있다.<br/>
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <CodeSnippets
@@ -32,7 +80,7 @@ Shortcut: intellicode에서 불러올이름<br/>
 Code Language 어느 언어에서 사용할지 설정<br/>
 
 
-# 매개 변수 설정
+## 매개 변수 설정
 변수값을 사용해야할경우. 따로설정을 하지않으면 Default값이 들어간다.
 
 ```
@@ -48,7 +96,7 @@ ID: 변수이름<br/>
 ToolTip: 변수에대한설명<br/>
 Default: 기본값<br/>
 
-# Snippet Function
+## Snippet Function
 함수를 사용해야할 경우. 따로설정 하지않으면 Default값이 들어간다.
 
 ```
