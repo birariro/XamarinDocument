@@ -31,4 +31,4 @@ FCM 의 전송 방식은 3가지 방식이 존재한다.
 
 
 ## 샘플 코드
-[샘플코드 GIT](https://github.com/k4keye/Xamarin/tree/master/FCM_simple) </br>
+[샘플코드 Git](https://github.com/k4keye/Xamarin/tree/master/FCM_simple) </br>
