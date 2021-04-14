@@ -19,7 +19,7 @@
 [4.1 Enrty](https://github.com/k4keye/XamarinDocument/blob/main/4/Entry.md)  </br>
 
 # :rocket: Android
-[DependencyService](https://github.com/k4keye/XamarinDocument/blob/main/android/DependencyService.md)  </br>
+[안드로이드 자원 사용하기](https://github.com/k4keye/XamarinDocument/blob/main/android/DependencyService.md)  </br>
 
 # :space_invader: Development
 [FCM](https://github.com/k4keye/XamarinDocument/blob/main/development/FCM.md)  </br>
