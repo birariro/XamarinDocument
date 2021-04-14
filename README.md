@@ -13,13 +13,16 @@
 [2.3 INotifyPropertyChanged](https://github.com/k4keye/XamarinDocument/blob/main/2/INotifyPropertyChanged.md) </br>
 
 #  :anger: 3. Null 체크
-[3.1 ControlNullCheck](https://github.com/k4keye/XamarinDocument/blob/main/3/ControlNullCheck.md)
+[3.1 ControlNullCheck](https://github.com/k4keye/XamarinDocument/blob/main/3/ControlNullCheck.md)  </br>
 
 # :mag_right: 4. Control
-[4.1 Enrty](https://github.com/k4keye/XamarinDocument/blob/main/4/Entry.md)
+[4.1 Enrty](https://github.com/k4keye/XamarinDocument/blob/main/4/Entry.md)  </br>
+
+# :rocket: Android
+[DependencyService](https://github.com/k4keye/XamarinDocument/blob/main/android/DependencyService.md)  </br>
 
 # :space_invader: Development
-[FCM](https://github.com/k4keye/XamarinDocument/blob/main/development/FCM.md)
+[FCM](https://github.com/k4keye/XamarinDocument/blob/main/development/FCM.md)  </br>
 
 
 # :pencil2: CodeConventions
