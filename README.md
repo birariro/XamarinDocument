@@ -60,7 +60,7 @@ XamarinForms 개발을 진행하면서 발생되었던 문제 해결 방법이�
 [SyncFusionListviewHeader](https://github.com/k4keye/XamarinDocument/blob/main/etc/SyncFusionListViewHeader.md) <br/>
 [동기에서 비동기호출](https://github.com/k4keye/XamarinDocument/blob/main/etc/%EB%8F%99%EA%B8%B0%EC%97%90%EC%84%9C_%EB%B9%84%EB%8F%99%EA%B8%B0%ED%98%B8%EC%B6%9C.md) <br/>
 [CodeSnippet](https://github.com/k4keye/XamarinDocument/blob/main/etc/CodeSnippet.md)<br/>
-
+[Essentials-Preferences코드분석](https://github.com/k4keye/XamarinDocument/blob/main/etc/Preferences%20%EC%BD%94%EB%93%9C%20%EB%B6%84%EC%84%9D.md)<br/>
 ___
 
 ### :fire: Writer
